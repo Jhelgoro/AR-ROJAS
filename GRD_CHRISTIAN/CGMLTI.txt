@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Oferta academica del Centro de Gestión de Mercados, Logistica y Tecnologias de la información
 -Teleinformatica
 -Logistica
@@ -6,5 +7,7 @@ Oferta academica del Centro de Gestión de Mercados, Logistica y Tecnologias de 
 -Industrias creativas
 -Formación complementaria
 =======
+=======
+>>>>>>> 8f21426b4899d6a8afcde4cd341babf046b94718
 
 >>>>>>> 8f21426b4899d6a8afcde4cd341babf046b94718
